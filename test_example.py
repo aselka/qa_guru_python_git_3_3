@@ -6,3 +6,6 @@ def test_2():
 
 def test_3():
     assert 2==2
+
+def test_a():
+    assert 3 < 6
